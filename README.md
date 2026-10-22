@@ -1,11 +1,18 @@
-# Hi, I'm Darren Lee 👋
+### Hi there 👋 I'm Darren
 
-Interested in AI, software development, and building useful tools.
+I'm interested in AI and software development, especially how
+technology can make everyday tasks easier.
 
-### What you'll find here
-- Personal projects and experiments
-- Notes on what I'm learning
-- Open-source contributions
+This is where I'll share my projects, experiments, and what
+I learn along the way.
 
-### Let's connect
-I'm interested in connecting with other developers and collaborating on projects.
+### 🚀 Projects
+
+I'm preparing my first public projects. More coming soon!
+
+### 🌐 Connect
+
+I'm happy to connect with developers and people interested
+in AI, useful tools, and creative projects.
+
+Feel free to explore my repositories and follow my progress.
